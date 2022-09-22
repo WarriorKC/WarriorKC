@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WarriorKC
 - 👀 I’m interested in AI, Deep-learning, reinforcement-learning,  pytorch, Computer-vision, NLP
 - 🌱 I’m currently learning reinforcement-learning 
-- 💞️ I’m looking to collaborate on all the interests topic mentioned above 
+- 💞️ I’m looking to collaborate on all the topic mentioned above 
 - 📫 reach me over linkdin 
 
 <!---
